@@ -1,11 +1,11 @@
 # Tic-tac-toe in Python using curses
 
-# Run
+## Run
 ```
 $ python -m tictactoe
 ```
 
-# Test
+## Test
 
 ```
 $ pytest
